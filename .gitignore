@@ -14,3 +14,7 @@ data/*.tsv
 .DS_Store
 .idea/
 .vscode/
+
+# Custom
+*.pdf
+plots/
